@@ -31,4 +31,4 @@ Price Index Report (Collections Statistiques N° 247/2025).
 
 See the full documentation here:
 
-[Open ONS_Inflation_Rapport_Synthese.md](./Open ONS_Inflation_Rapport_Synthese.md)
+[Open ONS_Inflation_Rapport_Synthese.md](./ONS_Inflation_Rapport_Synthese.md)
